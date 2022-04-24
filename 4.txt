@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 4
+=======
+test file for clone
+>>>>>>> b7fa2db8f1c3c869d36906c93fb8c5d7c63b53f9
